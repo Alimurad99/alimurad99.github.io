@@ -10,7 +10,6 @@ $(function(){
       "<span style='color: #56e587'>$</span> sudo BlackLua <br /> ^1000" +
       "~ Telegram: <a href='https://t.me/PyPremium'>BlackLua</a> <br /> ^1000" +
       "<span style='color: #56e587'>$</span> _"
-   
     ],
     typeSpeed: 1,
     showCursor: false
