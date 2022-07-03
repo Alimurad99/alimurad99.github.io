@@ -4,7 +4,7 @@ $(function(){
   $('.text').typed({
     strings: [
       "<span style='color: #56e587'>$</span> Hello /> ^1000" + 
-      "~ lite.. <br /> ^1000" +
+      "~ Alimurad <br /> ^1000" +
       "<span style='color: #56e587'>$</span> useradd -m BlackLua <br /> ^1000" +
       "~ BlackLua necoder <br /> ^1000" +
       "<span style='color: #56e587'>$</span> sudo BlackLua <br /> ^1000" +
